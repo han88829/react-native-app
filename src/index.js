@@ -10,7 +10,7 @@ class Home extends Component {
 
     render() {
         return (
-            <Text>
+            <Text style={{ flex: 1, textAlign: "centerFF" }}>
                 hello react-native！
             </Text>
         );
