@@ -4,4 +4,4 @@ react-native react-navigation
 
 ## react-native App
 
-* 进行中。。。
+* 暂未开始。。。
